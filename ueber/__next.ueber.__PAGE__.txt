@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"buildId":"kmpxJxCjxvloMEMonvGpo","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"seiteninhalt prosa","children":[["$","p","p-0",{"children":"Sasha Kaun studiert Philosophie und Mathematik an der Friedrich-Schiller-Universität Jena."}],"\n",["$","p","p-1",{"children":["$","em","em-0",{"children":"Dieser Text ist ein Platzhalter und wird ersetzt."}]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"nbVrW_wnJbmnpUGd-sHOh","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"seiteninhalt prosa","children":[["$","p","p-0",{"children":"Sasha Kaun studiert Philosophie und Mathematik an der Friedrich-Schiller-Universität Jena."}],"\n",["$","p","p-1",{"children":["$","em","em-0",{"children":"Dieser Text ist ein Platzhalter und wird ersetzt."}]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
 4:null
