@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[ordner]","\u002F[ordner]\u002F[kuerzel]","\u002F[ordner]\u002F[kuerzel]\u002F[fassung]","\u002F[ordner]\u002F[kuerzel]\u002F[fassung]\u002Fquelle.md","\u002F[ordner]\u002F[kuerzel]\u002F[fassung]\u002Fzitat.bib","\u002Fbegriffe\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

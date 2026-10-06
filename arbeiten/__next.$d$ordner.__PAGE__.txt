@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/663ffdb0f2ef32b0.js"],""]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"kmpxJxCjxvloMEMonvGpo","rsc":["$","$1","c",{"children":[[["$","h1",null,{"className":"abschnitt-kopf","children":"Arbeiten"}],["$","ul",null,{"className":"dok-liste","children":[["$","li","gg",{"children":["$","$L2",null,{"href":"/arbeiten/gg","children":[["$","span",null,{"className":"kuerzel","children":"GG"}],["$","span",null,{"className":"titel","children":"Gewohnte Gleichzeitigkeiten"}],["$","span",null,{"className":"meta","children":"Hausarbeit"}],["$","span",null,{"className":"meta","children":"Theoretische Philosophie"}],["$","span",null,{"className":"meta","children":"2026.09.16 · V1"}]]}]}]]}]],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
